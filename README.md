@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @shubhamadmin
-- 👀 I’m interested in fron end development and CyberSec
-- 🌱 I’m currently learning all the things lol
+- 👀 I’m interested in DevOps | Azure |AWS |Jenkins
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...shubham.editor@gmail.com
